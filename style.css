@@ -1,0 +1,20 @@
+*{
+
+}
+
+body{
+	background-image: url(https://i.pinimg.com/736x/28/c7/d1/28c7d1a352d45800de510ec3fb0ea813.jpg);
+}
+
+.container{
+	background-color: #257180;
+	padding: 12px;
+}
+
+h1{
+	color: ghostwhite;
+}
+
+h2{
+	color: lightcyan;
+}
